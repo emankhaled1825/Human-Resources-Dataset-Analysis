@@ -12,7 +12,7 @@ This project aims to analyze an HR dataset to uncover insights about employee pe
 ## Team Members
 | Name | Role |
 |------|------|
-| Eman Khaled | Team Leader |
+| Eman Khaled Atta | Team Leader |
 | Muhrail Magdy Albadry | Week 1: Data Cleaning & Preprocessing |
 | Ganna Raafat Esmail | Week 2: Analysis Questions Phase |
 | Sohaila Mohamed Heakel | Week 3: Dashboard Phase |
