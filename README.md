@@ -31,11 +31,6 @@ The dataset is available in the `HR` folder in this repository.
 
 ## Project Status
 - [ ] Week 1: Data Cleaning & Preprocessing
-- [ ] Week 2: Analysis Questions Phase
-- [ ] Week 3: Dashboard Phase
-- [ ] Week 4: Final Presentation
-
-
 
 
 
