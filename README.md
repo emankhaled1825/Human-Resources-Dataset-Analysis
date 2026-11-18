@@ -25,6 +25,9 @@ Eng. Kareem Bakli
 The dataset is available in the `HR` folder in this repository.
 
 ## Tools Used
+- Microsoft Excel
+- Python
+- SQL
 - Power BI
 - Power Query
 - DAX
